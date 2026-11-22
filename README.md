@@ -1,122 +1,154 @@
-# Hi there 👋, I'm Osama Mohamed
+# Hi there, I'm Osama Mohamed 👋
 
-### Java Backend Developer
+### Java Backend Developer | Spring Boot | Microservices
 
-I'm a Backend Developer passionate about building scalable, secure, and maintainable enterprise applications using Java technologies.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6DB33F&width=550&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Building+Scalable+Enterprise+Applications;Always+Learning+and+Improving" alt="Typing SVG" />
+</p>
 
-Currently focusing on **Spring Boot**, while having experience with **Java EE (EJB & JSF)** and relational databases.
+I'm a Java Backend Developer passionate about designing and building scalable, secure, and maintainable enterprise applications.
 
----
+I have hands-on experience working with **Java EE, Spring Boot, REST APIs, and relational databases**, with a strong focus on backend architecture, microservices, and enterprise system development.
 
-## 🚀 About Me
-
-- 💻 Java Backend Developer
-- 🌱 Currently learning **Microservices**, **Docker**, and **Spring Security**
-- 🔭 Building REST APIs with Spring Boot
-- ⚡ Interested in Enterprise Applications & System Design
-- 📍 Egypt
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![EJB](https://img.shields.io/badge/EJB-007396?style=for-the-badge)
-![JSF](https://img.shields.io/badge/JSF-323330?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge)
+- 💼 Currently working as a Java Backend Developer at ISAG.
+- 🚀 Developing enterprise applications using Spring Boot and Microservices.
+- 🔐 Exploring Spring Security, JWT, and Role-Based Access Control.
+- 🏗️ Building my own enterprise security platform (O2G).
+- 🌍 Based in Egypt.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- RESTful API Design
-- Docker
-- Microservices
-- Clean Architecture
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
 
----
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</p>
 
-## 📂 Featured Projects
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![EJB](https://img.shields.io/badge/EJB-007396?style=flat-square)
+![JSF](https://img.shields.io/badge/JSF-323330?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square)
 
-### 🏢 ERP System
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+</p>
 
-Enterprise Resource Planning System built using:
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,linux" />
+</p>
 
-- Java EE
-- JSF
-- EJB
-- JPA
-- MySQL
-
----
-
-### 🚀 Spring Boot REST API
-
-RESTful backend application featuring:
-
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- Spring Data JPA
-- MySQL
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square)
 
 ---
 
-### 🔐 Authentication System
+## 💼 Professional Experience
 
-Authentication & Authorization with:
+### Java Backend Developer — ISAG
+**January 2025 – Present**
 
-- Spring Security
-- JWT
-- Role-Based Access Control
+Working on enterprise ERP systems and backend development.
 
----
+- Developing and maintaining enterprise applications.
+- Working with Java EE (EJB, JSF, JPA) and Spring Boot.
+- Building RESTful APIs and microservices.
+- Designing and maintaining relational database structures.
+- Working with business modules including Sales, Purchases, Inventory, Accounting, HR, and Logistics.
+- Integrating backend services and implementing business logic.
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Osama995184&show_icons=true&theme=github_dark&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Osama995184&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama995184&layout=compact&theme=github_dark&hide_border=true)
+**Technologies:** Java, Spring Boot, Microservices, EJB, JSF, JPA, Hibernate, MySQL, PostgreSQL.
 
 ---
 
-## 🤝 Connect with Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osama-mohamed-408666218/)
+### 🏢 ISAG — Enterprise ERP & Microservices
 
-📧 Email: osamamohamed5522@gmail.com
+Enterprise ERP ecosystem with multiple business modules and backend services.
+
+**Key Areas:**
+- Company & Branch Management
+- Accounts & Chart of Accounts
+- Purchase Management
+- Inventory & Business Operations
+- RESTful APIs and Microservices
+
+**Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, MySQL, Liquibase, MapStruct.
 
 ---
 
-> *"First, solve the problem. Then, write clean and maintainable code."*
+### 🔐 O2G — Enterprise Security Platform
+
+A personal portfolio project focused on building a reusable enterprise security and access management foundation.
+
+**Key Features & Development Areas:**
+- Multi-Company & Multi-Branch Architecture.
+- User and Role Management.
+- Role-Based Access Control (RBAC).
+- Permission and Privilege Management.
+- JWT Authentication & Authorization (planned).
+- Audit Trail and Soft Delete.
+- Database Versioning with Flyway.
+
+**Technologies:** Java, Spring Boot, Spring Security, PostgreSQL, JPA, Flyway, Docker.
+
+---
+
+## 📚 Currently Focusing On
+
+- Advanced Spring Boot & Spring Security
+- JWT Authentication and Authorization
+- Microservices Architecture
+- Docker & Containerization
+- Database Design and Optimization
+- Clean Architecture & SOLID Principles
+- Enterprise Application Security
+- System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Osama995184&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama995184&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osama995184&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/osama-mohamed-408666218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:osamamohamed5522@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Great software is built with solid fundamentals, clean code, and continuous improvement."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
